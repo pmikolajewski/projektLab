@@ -1,0 +1,9 @@
+#glownyContener{
+  background: darkcyan;
+}
+
+#tytul, h1{
+  text-align: center;
+  color: darkblue;
+  background: #416262;
+}
